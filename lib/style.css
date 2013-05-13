@@ -1,0 +1,8 @@
+#canvas {
+    border: 1px solid black;
+}
+
+#utils {
+    position: absolute;
+    right: 6px;
+}

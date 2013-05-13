@@ -1,0 +1,21 @@
+{
+  "name": "doomsday",
+  "private": true,
+  "version": "0.0.0",
+  "author": "Colin Teal",
+  "description": "Doomsday Preppers.",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server lib",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "doomsday",
+    "preppers",
+    "game"
+  ],
+  "dependencies": {
+    "http-server": "0.5.x"
+  },
+  "license": "MIT"
+}
